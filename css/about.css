@@ -1,0 +1,64 @@
+
+#stock2{
+    font-family: 'Playfair Display', serif;
+    color: white;
+    margin-top: 5em;
+}
+#stock3{
+    font-family: 'Playfair Display', serif;
+    color: white;
+    
+}
+.top-section5{
+    background-image: url('img1a.png')!important;
+    background-size:cover;
+    height: 35em;
+}
+.nav-link{
+    color: black;
+    font-family: 'Lato', sans-serif;
+    font-size: .7em;
+}
+#test1{
+    background-color: black;
+    height: 2.2em;
+}
+
+.test2{
+    color: white;
+    margin-right: 5em;
+    font-family: 'Lato', sans-serif;
+    font-size: .7em;
+    margin-top: 1em;
+}
+.ml2 {
+  font-weight: 900;
+  font-size: 3.5em;
+}
+
+.ml2 .letter {
+  display: inline-block;
+  line-height: 1em;
+}
+#intro{
+   font-family: 'Roboto', sans-serif; 
+   font-weight: 100;
+   font-size: 1.6em;
+   margin-top: .8em;
+}
+#intro2{
+  font-family: 'Lato', sans-serif;
+   font-weight: 100;
+   line-height: 1.75em;
+   font-size: .8em;
+   margin-top: .8em;
+   max-width: 65em;
+}
+.footer{
+  background-image: url('img5.png')!important;  
+
+}
+#footer-text{
+    color:#fff;
+    margin-top: 4em;
+}
