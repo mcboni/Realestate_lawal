@@ -1,11 +1,15 @@
-body{
+html,body{
     margin: 0;
     padding: 0;
+
     
 }
 
 
 
+.navbar-toggler-icon {
+    background-image: url("menu.png") !important;
+}
 .nav-link{
     color: black;
     font-family: 'Lato', sans-serif;
@@ -85,7 +89,7 @@ body{
       
 }
 .listing-section{
-    margin-bottom: 2em;
+    margin-bottom: 3em;
 }
 .ml2 {
   font-weight: 900;
@@ -110,6 +114,10 @@ body{
     color: rgba(133, 127, 127, 0.933);
     margin-top: -.3em;
 }
+.card{
+    width: 21rem; 
+    height: 26rem;
+}
 
 #g1{
  color: rgba(133, 127, 127, 0.933);   
@@ -120,6 +128,18 @@ body{
   font-size: .8em; 
 }
 #be1{
+  color: rgba(133, 127, 127, 0.933);  
+  font-size: .8em;
+}
+#g2{
+ color: rgba(133, 127, 127, 0.933);   
+ font-size: .8em;
+}
+#ba2{
+  color: rgba(133, 127, 127, 0.933); 
+  font-size: .8em; 
+}
+#be2{
   color: rgba(133, 127, 127, 0.933);  
   font-size: .8em;
 }
@@ -228,3 +248,716 @@ background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/s
     font-size: .7em;
      color: white;
 }
+@media (min-width:200px) and (max-width:359px){
+    html,body{
+   
+  overflow-x: hidden;
+  position: relative;
+    
+    
+}
+    #health{
+    position: absolute;
+    font-family: 'Roboto', sans-serif;
+    font-size: 2.5em;
+    color: white;
+     margin-top: 3em;
+      margin-left: 1em;
+   
+     
+   
+}
+#stock{
+    position: absolute;
+    font-family: 'Roboto', sans-serif;
+    font-size: 2.5em;
+    color: white;
+      margin-top: 4em;
+      margin-left: 1em;
+   
+   
+}
+#produce{
+    position: absolute;
+    font-family: 'Roboto', sans-serif;
+    font-size: 2.5em;
+    color: white;
+     margin-top: 4.9em;
+      margin-left: 1em;
+   
+      
+}
+#log{
+    margin-top: -7.6em;
+    margin-left: 5em;
+}
+
+#log1{
+    margin-top: -10.8em;
+    margin-left: 9em;
+}
+#log2{
+    margin-top: -7.6em;
+    margin-left: 4.5em;
+}
+
+#log3{
+    margin-top: -10.9em;
+    margin-left: 9em;
+}
+
+#g1{ 
+ font-size: .8em;
+ margin-top: -6.7em;
+ margin-left: 11em;
+
+}
+#ba1{
+    position: relative;
+  font-size: .8em; 
+ margin-left: 6em;
+ margin-top: -4.7em;
+
+}
+
+#g2{ 
+ font-size: .8em;
+ margin-top: -6.7em;
+ margin-left: 11em;
+
+}
+#ba2{
+    position: relative;
+  font-size: .8em; 
+ margin-left: 5.5em;
+ margin-top: -4.7em;
+
+}
+
+.card{
+    width: 18rem;
+    
+}
+.tester{
+    max-width: 15em;
+    margin-left: 2.5em;
+    
+}
+}
+
+
+@media (min-width:360px) and (max-width:400px){
+  html,body{
+   
+  overflow-x: hidden;
+  position: relative;
+    
+    
+}
+    #health{
+    position: absolute;
+    font-family: 'Roboto', sans-serif;
+    font-size: 2.5em;
+    color: white;
+     margin-top: 3em;
+      margin-left: 1em;
+   
+     
+   
+}
+#stock{
+    position: absolute;
+    font-family: 'Roboto', sans-serif;
+    font-size: 2.5em;
+    color: white;
+      margin-top: 4em;
+      margin-left: 1em;
+   
+   
+}
+#produce{
+    position: absolute;
+    font-family: 'Roboto', sans-serif;
+    font-size: 2.5em;
+    color: white;
+     margin-top: 4.9em;
+      margin-left: 1em;
+   
+      
+}
+#log{
+    margin-top: -7.6em;
+    margin-left: 5em;
+}
+
+#log1{
+    margin-top: -10.8em;
+    margin-left: 9em;
+}
+#log2{
+    margin-top: -7.6em;
+    margin-left: 4.5em;
+}
+
+#log3{
+    margin-top: -10.9em;
+    margin-left: 9em;
+}
+
+#g1{ 
+ font-size: .8em;
+ margin-top: -6.7em;
+ margin-left: 11em;
+
+}
+#ba1{
+    position: relative;
+  font-size: .8em; 
+ margin-left: 6em;
+ margin-top: -4.7em;
+
+}
+
+#g2{ 
+ font-size: .8em;
+ margin-top: -6.7em;
+ margin-left: 11em;
+
+}
+#ba2{
+    position: relative;
+  font-size: .8em; 
+ margin-left: 5.5em;
+ margin-top: -4.7em;
+
+}
+
+.card{
+    width: 18rem;
+    margin-left: 1.3em;
+    
+}
+.tester{
+    max-width: 15em;
+    margin-left: 3.7em;
+    
+}
+}
+
+@media(min-width:401px) and (max-width:500px){
+  html,body{
+   
+  overflow-x: hidden;
+  position: relative;
+    
+    
+}
+    #health{
+    position: absolute;
+    font-family: 'Roboto', sans-serif;
+    font-size: 3em;
+    color: white;
+     margin-top: 3em;
+      margin-left: 1em;
+   
+     
+   
+}
+#stock{
+    position: absolute;
+    font-family: 'Roboto', sans-serif;
+    font-size: 3em;
+    color: white;
+      margin-top: 4em;
+      margin-left: 1em;
+   
+   
+}
+#produce{
+    position: absolute;
+    font-family: 'Roboto', sans-serif;
+    font-size: 3em;
+    color: white;
+     margin-top: 4.9em;
+      margin-left: 1em;
+   
+      
+}
+#log{
+    margin-top: -7.6em;
+    margin-left: 5em;
+}
+
+#log1{
+    margin-top: -10.8em;
+    margin-left: 9em;
+}
+#log2{
+    margin-top: -7.6em;
+    margin-left: 4.5em;
+}
+
+#log3{
+    margin-top: -10.9em;
+    margin-left: 9em;
+}
+
+#g1{ 
+ font-size: .8em;
+ margin-top: -6.7em;
+ margin-left: 11em;
+
+}
+#ba1{
+    position: relative;
+  font-size: .8em; 
+ margin-left: 6em;
+ margin-top: -4.7em;
+
+}
+
+#g2{ 
+ font-size: .8em;
+ margin-top: -6.7em;
+ margin-left: 11em;
+
+}
+#ba2{
+    position: relative;
+  font-size: .8em; 
+ margin-left: 5.5em;
+ margin-top: -4.7em;
+
+}
+
+.card{
+    width: 21rem;
+    margin-left: 1.5em;
+    
+}
+.tester{
+    max-width: 15em;
+    margin-left: 5.5em;
+    
+}
+}
+
+
+@media(min-width:501px) and (max-width:600px){
+  html,body{
+   
+  overflow-x: hidden;
+  position: relative;
+    
+    
+}
+    #health{
+    position: absolute;
+    font-family: 'Roboto', sans-serif;
+    font-size: 3em;
+    color: white;
+     margin-top: 3em;
+      margin-left: 1em;
+   
+     
+   
+}
+#stock{
+    position: absolute;
+    font-family: 'Roboto', sans-serif;
+    font-size: 3em;
+    color: white;
+      margin-top: 4em;
+      margin-left: 1em;
+   
+   
+}
+#produce{
+    position: absolute;
+    font-family: 'Roboto', sans-serif;
+    font-size: 3em;
+    color: white;
+     margin-top: 4.9em;
+      margin-left: 1em;
+   
+      
+}
+#log{
+    margin-top: -7.6em;
+    margin-left: 5em;
+}
+
+#log1{
+    margin-top: -10.8em;
+    margin-left: 9em;
+}
+#log2{
+    margin-top: -7.6em;
+    margin-left: 4.5em;
+}
+
+#log3{
+    margin-top: -10.9em;
+    margin-left: 9em;
+}
+
+#g1{ 
+ font-size: .8em;
+ margin-top: -6.7em;
+ margin-left: 11em;
+
+}
+#ba1{
+    position: relative;
+  font-size: .8em; 
+ margin-left: 6em;
+ margin-top: -4.7em;
+
+}
+
+#g2{ 
+ font-size: .8em;
+ margin-top: -6.7em;
+ margin-left: 11em;
+
+}
+#ba2{
+    position: relative;
+  font-size: .8em; 
+ margin-left: 5.5em;
+ margin-top: -4.7em;
+
+}
+
+.card{
+    width: 23rem;
+    margin-left: 5.5em;
+    
+}
+.tester{
+    max-width: 15em;
+    margin-left: 10.5em;
+    
+}
+}
+
+@media(min-width:601px) and (max-width:700px){
+  html,body{
+   
+  overflow-x: hidden;
+  position: relative;
+    
+    
+}
+    #health{
+    position: absolute;
+    font-family: 'Roboto', sans-serif;
+    font-size: 3em;
+    color: white;
+     margin-top: 3em;
+      margin-left: 1em;
+   
+     
+   
+}
+#stock{
+    position: absolute;
+    font-family: 'Roboto', sans-serif;
+    font-size: 3em;
+    color: white;
+      margin-top: 4em;
+      margin-left: 1em;
+   
+   
+}
+#produce{
+    position: absolute;
+    font-family: 'Roboto', sans-serif;
+    font-size: 3em;
+    color: white;
+     margin-top: 4.9em;
+      margin-left: 1em;
+   
+      
+}
+#log{
+    margin-top: -7.6em;
+    margin-left: 5em;
+}
+
+#log1{
+    margin-top: -10.8em;
+    margin-left: 9em;
+}
+
+
+#g1{ 
+ font-size: .8em;
+ margin-top: -6.7em;
+ margin-left: 11em;
+
+}
+#ba1{
+   
+  font-size: .8em; 
+ margin-left: 6em;
+ margin-top: -4.7em;
+
+}
+
+
+
+.card{
+    width: 23rem;
+    margin-left: 8.5em;
+    
+}
+.tester{
+    max-width: 20.5em;
+    margin-left: 10.5em;
+    
+}
+}
+
+@media (min-width:701px) and (max-width:750px){
+  html,body{
+   
+  overflow-x: hidden;
+  position: relative;
+    
+    
+}
+    #health{
+    position: absolute;
+    font-family: 'Roboto', sans-serif;
+    font-size: 4em;
+    color: white;
+     margin-top: 3em;
+      margin-left: 1em;
+   
+     
+   
+}
+#stock{
+    position: absolute;
+    font-family: 'Roboto', sans-serif;
+    font-size: 4em;
+    color: white;
+      margin-top: 4em;
+      margin-left: 1em;
+   
+   
+}
+#produce{
+    position: absolute;
+    font-family: 'Roboto', sans-serif;
+    font-size: 4em;
+    color: white;
+     margin-top: 4.9em;
+      margin-left: 1em;
+   
+      
+}
+#log{
+    margin-top: -7.6em;
+    margin-left: 5em;
+}
+
+#log1{
+    margin-top: -10.8em;
+    margin-left: 9em;
+}
+
+
+#g1{ 
+ font-size: .8em;
+ margin-top: -6.7em;
+ margin-left: 11em;
+
+}
+#ba1{
+   
+  font-size: .8em; 
+ margin-left: 6em;
+ margin-top: -4.7em;
+
+}
+
+
+
+.card{
+    width: 23rem;
+    margin-left: 8.5em;
+    
+}
+.tester{
+    max-width: 23.5em;
+    margin-left: 11.5em;
+    
+}
+}
+
+@media (min-width:751px) and (max-width:800px){
+html,body{
+   
+  overflow-x: hidden;
+
+    
+    
+}
+    #health{
+    position: absolute;
+    font-family: 'Roboto', sans-serif;
+    font-size: 4em;
+    color: white;
+     margin-top: 3em;
+      margin-left: 1em;
+   
+     
+   
+}
+#stock{
+    position: absolute;
+    font-family: 'Roboto', sans-serif;
+    font-size: 4em;
+    color: white;
+      margin-top: 4em;
+      margin-left: 1em;
+   
+   
+}
+#produce{
+    position: absolute;
+    font-family: 'Roboto', sans-serif;
+    font-size: 4em;
+    color: white;
+     margin-top: 4.9em;
+      margin-left: 1em;
+   
+      
+}
+.card{
+    width: 22rem;
+    margin-left: 10em;
+    
+}
+.tester{
+    max-width: 35em;
+    margin-left: 0em;
+    
+}
+#img_card1{
+    width: 100%;
+}
+}
+
+@media (min-width:801px) and (max-width:909px){
+html,body{
+   
+  overflow-x: hidden;
+
+    
+    
+}
+    #health{
+    position: absolute;
+    font-family: 'Roboto', sans-serif;
+    font-size: 4em;
+    color: white;
+     margin-top: 3em;
+      margin-left: 1em;
+   
+     
+   
+}
+#stock{
+    position: absolute;
+    font-family: 'Roboto', sans-serif;
+    font-size: 4em;
+    color: white;
+      margin-top: 4em;
+      margin-left: 1em;
+   
+   
+}
+#produce{
+    position: absolute;
+    font-family: 'Roboto', sans-serif;
+    font-size: 4em;
+    color: white;
+     margin-top: 4.9em;
+      margin-left: 1em;
+   
+      
+}
+.card{
+    width: 22rem;
+    margin-left: 14em;
+    
+}
+.tester{
+    max-width: 35em;
+    margin-left: 0em;
+    
+}
+#img_card1{
+    width: 100%;
+}
+}
+
+
+@media (min-width: 910px) and (max-width: 1211px){
+html,body{
+   
+  overflow-x: hidden;
+
+    
+    
+}
+    #health{
+    position: absolute;
+    font-family: 'Roboto', sans-serif;
+    font-size: 4em;
+    color: white;
+     margin-top: 3em;
+      margin-left: 1em;
+   
+     
+   
+}
+#stock{
+    position: absolute;
+    font-family: 'Roboto', sans-serif;
+    font-size: 4em;
+    color: white;
+      margin-top: 4em;
+      margin-left: 1em;
+   
+   
+}
+#produce{
+    position: absolute;
+    font-family: 'Roboto', sans-serif;
+    font-size: 4em;
+    color: white;
+     margin-top: 4.9em;
+      margin-left: 1em;
+   
+      
+}
+.card{
+    width: 17rem;
+   
+    
+}
+.tester{
+    max-width: 35em;
+    margin-left: 0em;
+    
+}
+#img_card1{
+    width: 100%;
+}
+}
+
+
