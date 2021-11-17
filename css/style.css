@@ -182,8 +182,21 @@ body {
   max-width: 15em;
   margin-left: 5em;
 }
+#project_line{
+    background-color: brown;
+    width: 10em;
+}
 #img-flier {
   width: 70%;
+}
+.View {
+  color: #943333;
+  border: none;
+  margin-bottom: 3em;
+  min-width: 15em;
+  padding: 1em;
+  font-weight: 700;
+  background-color: #d89f9f;
 }
 #c_p_title {
   font-family: "Lora", serif;
