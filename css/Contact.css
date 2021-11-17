@@ -53,16 +53,22 @@ background-repeat: no-repeat;
 }
 
 
-.footer{
-    background-color:#200202 ;
+.footer {
+  background-color: #fff;
 }
-.footer-title{
-    font-weight: 600;
-    color: white;
+.footer-title {
+  font-weight: 600;
+  color: #943333;
 }
-.footer-link{
-    font-size: .7em;
-     color: white;
+.footer-link {
+  font-size: 0.7em;
+  color: #943333;
+}
+#logo_title {
+  font-size: 0.7em;
+  max-width: 15em;
+  font-family: "Lora", serif;
+  color: #943333;
 }
 
 @media (min-width:200px) and (max-width:359px){
