@@ -1,64 +1,123 @@
-
-#stock2{
-    font-family: 'Playfair Display', serif;
-    color: white;
-    margin-top: 5em;
-}
-#stock3{
-    font-family: 'Playfair Display', serif;
-    color: white;
-    
-}
-.top-section5{
-    background-image: url('img1a.png')!important;
-    background-size:cover;
-    height: 35em;
-}
-.nav-link{
-    color: black;
-    font-family: 'Lato', sans-serif;
-    font-size: .7em;
-}
-#test1{
-    background-color: black;
-    height: 2.2em;
+html,
+body {
+  margin: 0;
+  padding: 0;
 }
 
-.test2{
-    color: white;
-    margin-right: 5em;
-    font-family: 'Lato', sans-serif;
-    font-size: .7em;
-    margin-top: 1em;
+.navbar-toggler-icon {
+  background-image: url("menu.png") !important;
 }
-.ml2 {
+.nav-link {
+  color: black;
+  font-family: "Lato", sans-serif;
+  font-size: 0.7em;
+}
+
+.about {
+  background-image: url("abt.png") !important;
+  height: 100%;
+}
+#about_img {
+  width: 50%;
+}
+
+#about_intro {
+  color: #000;
+  font-weight: 700;
+  font-size: 1.5em;
+  margin-top: 0em;
+  font-family: "Roboto", sans-serif;
+}
+
+#span1 {
+  color: #e5e5e5;
+  font-family: 9em;
   font-weight: 900;
-  font-size: 3.5em;
 }
 
-.ml2 .letter {
-  display: inline-block;
-  line-height: 1em;
+#span2 {
+  color: #943333;
 }
-#intro{
-   font-family: 'Roboto', sans-serif; 
-   font-weight: 100;
-   font-size: 1.6em;
-   margin-top: .8em;
-}
-#intro2{
-  font-family: 'Lato', sans-serif;
-   font-weight: 100;
-   line-height: 1.75em;
-   font-size: .8em;
-   margin-top: .8em;
-   max-width: 65em;
-}
-.footer{
-  background-image: url('img5.png')!important;  
 
+#abt-story {
+  max-width: 50em;
+  line-height: 2em;
 }
-#footer-text{
-    color:#fff;
-    margin-top: 4em;
+@media (min-width: 200px) and (max-width: 359px) {
+  #about_intro {
+    font-size: 1em;
+  }
+  #about_img {
+    width: 60%;
+    margin-bottom: 1.5em;
+  }
+  #abt-story {
+    max-width: 50em;
+    line-height: 2em;
+    font-size: 0.8em;
+  }
 }
+@media (min-width: 360px) and (max-width: 400px) {
+  #about_intro {
+    font-size: 1em;
+  }
+  #about_img {
+    width: 60%;
+    margin-bottom: 1.5em;
+  }
+  #abt-story {
+    max-width: 50em;
+    line-height: 2em;
+    font-size: 0.8em;
+  }
+}
+
+@media (min-width: 401px) and (max-width: 500px) {
+  #about_intro {
+    font-size: 1em;
+  }
+  #about_img {
+    width: 60%;
+    margin-bottom: 1.5em;
+  }
+  #abt-story {
+    max-width: 50em;
+    line-height: 2em;
+    font-size: 1em;
+  }
+}
+
+@media (min-width: 501px) and (max-width: 600px) {
+  #about_intro {
+    font-size: 1em;
+  }
+  #about_img {
+    width: 60%;
+    margin-bottom: 1.5em;
+  }
+  #abt-story {
+    max-width: 50em;
+    line-height: 2em;
+    font-size: 1em;
+  }
+}
+@media (min-width: 751px) and (max-width: 800px){
+   #about_img {
+    width: 80%;
+    
+  }
+   #about_intro {
+    font-size: 1em;
+  }
+}
+
+@media (min-width: 801px) and (max-width: 909px) {
+  #about_img {
+    width: 80%;
+    
+  }
+  #about_intro {
+    font-size: 1em;
+  }
+}
+

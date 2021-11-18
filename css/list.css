@@ -1,0 +1,79 @@
+html,
+body {
+  margin: 0;
+  padding: 0;
+}
+header {
+  border-bottom: solid 1px #e5e5e5;
+}
+.navbar-toggler-icon {
+  background-image: url("menu.png") !important;
+}
+.nav-link {
+  color: black;
+  font-family: "Lato", sans-serif;
+  font-size: 0.7em;
+}
+#view {
+  margin-top: 1em;
+  font-family: "Lato", sans-serif;
+  color: #943333;
+}
+
+#view-line {
+  width: 22em;
+  background-color:#943333 ;
+  
+}
+#img-flier {
+  width: 70%;
+}
+#Gie {
+  font-family: "Montserrat", sans-serif;
+  color: #943333;
+  font-size: 2em;
+  font-weight: 800;
+}
+#Gjg {
+  color: #010157;
+  font-family: "Montserrat", sans-serif;
+  font-size: 2em;
+  font-weight: 800;
+}
+#Gme {
+  color: #010118;
+  font-family: "Montserrat", sans-serif;
+  font-size: 2em;
+  font-weight: 800;
+}
+.ee {
+  background-color: #f8f8ff;
+  width: 100%;
+  margin-bottom: 0em;
+}
+.em {
+  background-color: #f8f8ff;
+  width: 100%;
+  margin-top: 2em;
+}
+#unorderd {
+  color: #3b3b3b77;
+  font-weight: 600;
+}
+.footer {
+  background-color: #e5e5e5;
+}
+.footer-title {
+  font-weight: 600;
+  color: #943333;
+}
+.footer-link {
+  font-size: 0.7em;
+  color: #943333;
+}
+#logo_title {
+  font-size: 0.7em;
+  max-width: 15em;
+  font-family: "Lora", serif;
+  color: #943333;
+}
