@@ -51,6 +51,24 @@ header {
   width: 100%;
   margin-bottom: 0em;
 }
+#myDIV{
+display: none;
+}
+#myDIV2{
+display: none;
+}
+#myDIV3{
+display: none;
+}
+.View {
+  color: #943333;
+  border: none;
+  margin-bottom: 3em;
+  min-width: 15em;
+  padding: 1em;
+  font-weight: 700;
+  background-color: #d89f9f;
+}
 .em {
   background-color: #f8f8ff;
   width: 100%;
