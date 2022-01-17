@@ -12,7 +12,9 @@ background-size: cover;
 background-repeat: no-repeat;
  
 }
-
+.success{
+    color:white;
+}
 .navbar-toggler-icon {
     background-image: url("menu.png") !important;
 }
