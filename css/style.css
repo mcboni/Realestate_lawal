@@ -275,6 +275,18 @@ background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/s
   color: #943333;
  
 }
+#fb{
+  max-width: 30%;
+}
+#tw{
+  max-width: 30%;
+}
+#ig{
+  max-width: 30%;
+}
+#li{
+  max-width: 30%;
+}
 @media (min-width: 200px) and (max-width: 359px) {
   html,
   body {
