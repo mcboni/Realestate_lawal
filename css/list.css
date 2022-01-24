@@ -4,7 +4,7 @@ body {
   padding: 0;
 }
 .contact-form{
-  background-color:#F9C234;
+  background-color:#943333;
   height: 10em;
   margin-bottom: 2em;
   margin-top: -5em;
@@ -46,6 +46,93 @@ justify-items: center;
   font-size:3.3em;
   font-family: 'Playfair Display', serif;
 }
-#reads{
-color: #F9C234;
+#eko2{
+  margin-left: 0em;
+  color: whitesmoke;
+  font-size: larger;
+  font-family: 'Lobster', cursive;
+  font-weight:400;
+
 }
+#reads{
+color: #943333;
+}
+#submit2{
+
+  border: none;
+  background-color: #fff;
+  color: #943333;
+  font-weight: 700;
+  margin-left: 2em;
+  height:2.5em;
+  min-width: 12em;
+ }
+ .sale {
+  color: #fff;
+  border: none;
+  position: absolute;
+  bottom: 49.7em;
+  left: 1em;
+  font-size: 0.6em;
+  background-color: #F23A2E;
+  padding: 0.3em;
+  border-radius: 0.3em;
+  width: 3.5em;
+}
+.lease {
+  color: #fff;
+  border: none;
+  position: absolute;
+  bottom: 45.7em;
+  left: 1em;
+  font-size: 0.6em;
+  background-color: #7CBD1E;
+  padding: 0.3em;
+  border-radius: 0.3em;
+  width: 3.5em;
+}
+
+.card {
+  width: 22rem;
+  height: 32rem;
+  margin-bottom: 1em;
+}
+
+#price{
+  color: #7CBD1E;
+  font-weight: bold;
+  font-size: 1.5em;
+}
+.card-img-top{
+transition: transform .2s; /* Animation */
+}
+.card-img-top:hover{
+   transform: scale(1.1)
+
+}
+#g1 {
+  color: rgba(133, 127, 127, 0.933);
+  font-size: 0.8em;
+}
+#ba1 {
+  color: rgba(133, 127, 127, 0.933);
+  font-size: 0.8em;
+}
+#be1 {
+  color: rgba(133, 127, 127, 0.933);
+  font-size: 0.8em;
+}
+#g2 {
+  color: rgba(133, 127, 127, 0.933);
+  font-size: 0.8em;
+}
+#ba2 {
+  color: rgba(133, 127, 127, 0.933);
+  font-size: 0.8em;
+}
+#be2 {
+  color: rgba(133, 127, 127, 0.933);
+  font-size: 0.8em;
+}
+
+ 
