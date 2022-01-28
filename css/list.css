@@ -3,6 +3,14 @@ body {
   margin: 0;
   padding: 0;
 }
+.navbar-toggler-icon {
+  background-image: url("menu.png") !important;
+}
+.nav-link {
+  color: black;
+  font-family: "Lato", sans-serif;
+  font-size: 0.7em;
+}
 .contact-form{
   background-color:#943333;
   height: 10em;
@@ -135,4 +143,354 @@ transition: transform .2s; /* Animation */
   font-size: 0.8em;
 }
 
+@media (min-width: 200px) and (max-width: 359px){
+  html,body {
+    overflow-x: hidden;
+    position: relative;
+  }
+  .img-section{
+  width: fit-content;
+
+}
+.contact-form{
+  width: fit-content;
+  height: fit-content;
+}
+#listing{
+  margin-bottom: 1em;
+  margin-top: .5em;
+}
+
+#offer{
+  margin-bottom: 1em;
+  
+}
+
+#city{
+  margin-bottom: 1em;
  
+}
+#submit2{
+  margin-bottom: 1em;
+  margin-left: -.7em;
+}
+
+.card{
+  margin-bottom: 3em;
+  height: fit-content;
+  width: fit-content;
+}
+}
+
+  @media (min-width: 360px) and (max-width: 400px){
+ html,body {
+    overflow-x: hidden;
+    position: relative;
+  }
+  .img-section{
+  width: fit-content;
+
+}
+.contact-form{
+  width: fit-content;
+  height: fit-content;
+}
+#listing{
+  margin-bottom: 1em;
+  margin-top: .5em;
+}
+
+#offer{
+  margin-bottom: 1em;
+  
+}
+
+#city{
+  margin-bottom: 1em;
+ 
+}
+#submit2{
+  margin-bottom: 1em;
+  margin-left: -.7em;
+}
+
+.card{
+  margin-bottom: 3em;
+  height: fit-content;
+  width: fit-content;
+}
+
+  }
+
+ @media (min-width: 401px) and (max-width: 500px){
+     html,body {
+    overflow-x: hidden;
+    position: relative;
+  }
+  .img-section{
+  width: fit-content;
+
+}
+.contact-form{
+  width: fit-content;
+  height: fit-content;
+}
+#listing{
+  margin-bottom: 1em;
+  margin-top: .5em;
+}
+
+#offer{
+  margin-bottom: 1em;
+  
+}
+
+#city{
+  margin-bottom: 1em;
+ 
+}
+#submit2{
+  margin-bottom: 1em;
+  margin-left: -.7em;
+}
+
+.card{
+  margin-bottom: 3em;
+  height: fit-content;
+  width: fit-content;
+}
+  }
+
+  @media (min-width: 501px) and (max-width: 600px){
+         html,body {
+    overflow-x: hidden;
+    position: relative;
+  }
+  .img-section{
+  width: fit-content;
+
+}
+.contact-form{
+  width: fit-content;
+  height: fit-content;
+}
+#listing{
+  margin-bottom: 1em;
+  margin-top: .5em;
+}
+
+#offer{
+  margin-bottom: 1em;
+  
+}
+
+#city{
+  margin-bottom: 1em;
+ 
+}
+#submit2{
+  margin-bottom: 1em;
+  margin-left: -.7em;
+}
+
+.card{
+  margin-bottom: 3em;
+  height: fit-content;
+  width: fit-content;
+}
+  }
+
+  @media (min-width: 601px) and (max-width: 700px){
+     html,body {
+    overflow-x: hidden;
+    position: relative;
+  }
+.img-section{
+  background-size: cover;
+
+}
+.contact-form{
+  width: fit-content;
+  height: fit-content;
+}
+#listing{
+  margin-bottom: 1em;
+  margin-top: .5em;
+}
+
+#offer{
+  margin-bottom: 1em;
+  
+}
+
+#city{
+  margin-bottom: 1em;
+ 
+}
+#submit2{
+  margin-bottom: 1em;
+  margin-left: 0em;
+}
+
+.card{
+  margin-bottom: 3em;
+  height: fit-content;
+  width: fit-content;
+}
+  }
+
+  @media (min-width: 701px) and (max-width: 750px){
+      html,body {
+    overflow-x: hidden;
+    position: relative;
+  }
+.img-section{
+  background-size: cover;
+
+}
+.contact-form{
+  width: fit-content;
+  height: fit-content;
+}
+#listing{
+  margin-bottom: 1em;
+  margin-top: .5em;
+}
+
+#offer{
+  margin-bottom: 1em;
+  
+}
+
+#city{
+  margin-bottom: 1em;
+ 
+}
+#submit2{
+  margin-bottom: 1em;
+  margin-left: 0em;
+}
+
+.card{
+  margin-bottom: 3em;
+  height: fit-content;
+  width: fit-content;
+}
+  }
+
+  @media (min-width: 751px) and (max-width: 800px){
+    html,body {
+    overflow-x: hidden;
+    position: relative;
+  }
+.img-section{
+  background-size: cover;
+
+}
+.contact-form{
+  width: fit-content;
+  height: fit-content;
+}
+#listing{
+  margin-bottom: 1em;
+  margin-top: .5em;
+}
+
+#offer{
+  margin-bottom: 1em;
+  
+}
+
+#city{
+  margin-bottom: 1em;
+ 
+}
+#submit2{
+  margin-bottom: 1em;
+  margin-left: 0em;
+}
+
+.card{
+  margin-bottom: 3em;
+  height: fit-content;
+  width: fit-content;
+} 
+  }
+
+  @media (min-width: 801px) and (max-width: 909px){
+    html,body {
+    overflow-x: hidden;
+    position: relative;
+  }
+.img-section{
+  background-size: cover;
+
+}
+.contact-form{
+  width: fit-content;
+  height: fit-content;
+}
+#listing{
+  margin-bottom: 1em;
+  margin-top: .5em;
+}
+
+#offer{
+  margin-bottom: 1em;
+  
+}
+
+#city{
+  margin-bottom: 1em;
+ 
+}
+#submit2{
+  margin-bottom: 1em;
+  margin-left: 0em;
+}
+
+.card{
+  margin-bottom: 3em;
+  height: fit-content;
+  width: fit-content;
+} 
+  }
+
+  @media (min-width: 910px) and (max-width: 1211px){
+     html,body {
+    overflow-x: hidden;
+    position: relative;
+  }
+.img-section{
+  background-size: cover;
+
+}
+.contact-form{
+  width: fit-content;
+  height: fit-content;
+}
+#listing{
+  margin-bottom: 1em;
+  margin-top: .5em;
+}
+
+#offer{
+  margin-bottom: 1em;
+  
+}
+
+#city{
+  margin-bottom: 1em;
+ 
+}
+#submit2{
+  margin-bottom: 1em;
+  margin-left: 0em;
+}
+
+.card{
+  margin-bottom: 3em;
+  height: fit-content;
+  width: fit-content;
+} 
+  }
